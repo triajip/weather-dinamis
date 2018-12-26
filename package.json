@@ -1,0 +1,16 @@
+{
+  "name": "weather-dinamis/tugas2",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^31.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "moment": "^2.22.2",
+    "react-native-paper": "2.1.3",
+    "string-manager": "^2.0.0"
+  }
+}
